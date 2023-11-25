@@ -1,0 +1,18 @@
+{
+  "name": "slashkey",
+  "version": "1.0.0",
+  "description": "keyboard for android",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slashpotato/slashkey.git"
+  },
+  "keywords": [
+    "android-keyboard"
+  ],
+  "author": "slashpotato",
+  "license": "CC-BY-NC-4.0",
+  "bugs": {
+    "url": "https://github.com/slashpotato/slashkey/issues"
+  },
+  "homepage": "https://github.com/slashpotato/slashkey#readme"
+}

@@ -1,0 +1,24 @@
+{
+	"plugins": [
+		{
+			"type": "add",
+			"pluginName": "fleet.kotlin"
+		},
+		{
+			"type": "add",
+			"pluginName": "fleet.xml"
+		},
+		{
+			"type": "add",
+			"pluginName": "fleet.zip"
+		},
+		{
+			"type": "add",
+			"pluginName": "fleet.log"
+		},
+		{
+			"type": "add",
+			"pluginName": "fleet.mercury"
+		}
+	]
+}
